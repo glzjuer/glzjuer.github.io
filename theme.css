@@ -12,3 +12,5 @@ body {
 .theme-showcase > p > .btn {
   margin: 5px 0;
 }
+
+.btn-group {width:80%;}
